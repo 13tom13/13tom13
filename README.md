@@ -1,10 +1,10 @@
 # Доброго времени суток!
 Я Гурбановский Сергей, разработчик на Java
 # Мои навыки:
-- Java Core 
-- Spring (Boot, MVC, Security, Data)
+- Java Core, Многопоточность ([Многопоточный сетевой чат на Java](https://github.com/13tom13/networkchat))
+- Spring (Boot, MVC, Security, Data) ([Курсовой проект](https://github.com/13tom13/moneytransferservice.git))
 - Gradle, Maven
-- MySQL, PostgreSQL
+- MySQL, PostgreSQL 
 - Liquibase
 - JUnit 
 - Mockito, MockMvc  
@@ -12,4 +12,5 @@
 - Nginx
 
 ## Нетология
-- Прошел обучения на курсе Java-разработчик ([Сертификат](certificate.pdf))
+- Прошел обучения на курсе Java-разработчик ([Сертификат](certificate.pdf))  
+- Дипломный проект - [Облачное хранилище](https://github.com/13tom13/CloudService.git)
