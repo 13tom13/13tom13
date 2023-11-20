@@ -1,16 +1,15 @@
-### Hi there 👋
+# Доброго времени суток!
+Я Гурбановский Сергей, разработчик на Java
+# Мои навыки:
+- Java Core 
+- Spring (Boot, MVC, Security, Data)
+- Gradle, Maven
+- MySQL, PostgreSQL
+- Liquibase
+- JUnit 
+- Mockito, MockMvc  
+- Docker
+- Nginx
 
-<!--
-**13tom13/13tom13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Нетология
+- Прошел обучения на курсе Java-разработчик ([Сертификат](certificate.pdf))
