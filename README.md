@@ -7,7 +7,6 @@
 а новые навыки в программировании дают возможность реализовать свою давнюю мечту и стать специалистом 
 в новой для меня области!
 
-Моё [резюме](Gurbanovsky_Sergey_Java_developer.pdf)
 ## Мои навыки:
 - Java Core, Многопоточность ([Многопоточный сетевой чат на Java](https://github.com/13tom13/networkchat))
 - Spring (Boot, MVC, Security, Data) ([Курсовой проект](https://github.com/13tom13/moneytransferservice.git))
