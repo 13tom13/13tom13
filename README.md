@@ -15,3 +15,13 @@
 - Прошел обучения на курсе Java-разработчик ([Сертификат](certificate.pdf), [Дипломный проект](https://github.com/13tom13/CloudService.git))
 - [Git — система контроля версий](certificate-git.pdf)
 - [Алгоритмы и структуры данных](certificate-algo.pdf)
+
+## Проекты
+- [Облачное хранилище](https://github.com/13tom13/CloudService) - Сервис предоставляет REST-интерфейс 
+для загрузки файлов и вывода списка уже загруженных файлов пользователя. 
+Использованные технологии: Spring (Boot, Data JPA), Liquibase, Maven, MySQL, JUnit, Mockito(MockMvc), Docker.
+- [Сервис для перевода денег](https://github.com/13tom13/moneytransferservice) - приложение для подключения 
+к сервису для перевода денег. Разработано на базе Spring framework. 
+Возможен запуск через docker compose вместа с FRONT частью.
+- [Многопоточный сетевой чат на Java](https://github.com/13tom13/networkchat) - реализован с применением
+  средств многопоточности в Java. Интерфейс на базе Java Swing.
