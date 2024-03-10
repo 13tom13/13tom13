@@ -22,6 +22,7 @@
 - Прошел обучения на курсе Java-разработчик ([Сертификат](certificate.pdf), [Дипломный проект](https://github.com/13tom13/CloudService.git))
 - [Git — система контроля версий](certificate-git.pdf)
 - [Алгоритмы и структуры данных](certificate-algo.pdf)
+- [Первые шаги в JavaScript](certificate-JavaScript.pdf)
 
 ## Проекты
 - [Облачное хранилище](https://github.com/13tom13/CloudService) - Сервис предоставляет REST-интерфейс 
