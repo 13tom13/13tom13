@@ -23,6 +23,7 @@
 - [Git — система контроля версий](certificate-git.pdf)
 - [Алгоритмы и структуры данных](certificate-algo.pdf)
 - [Первые шаги в JavaScript](certificate-JavaScript.pdf)
+- [Основы вёрстки сайта: HTML и CSS](certificate-HTML&CSS.pdf)
 
 ## Проекты
 - [Облачное хранилище](https://github.com/13tom13/CloudService) - Сервис предоставляет REST-интерфейс 
